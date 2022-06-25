@@ -10,7 +10,7 @@ export const GifExpertApp = () => {
 
     return (
         <>
-            <h1>Gift Expert App</h1>
+            <h1>Gif Expert App</h1>
 
             <AddCategory onNewCategory={onAddCategory} />
 
